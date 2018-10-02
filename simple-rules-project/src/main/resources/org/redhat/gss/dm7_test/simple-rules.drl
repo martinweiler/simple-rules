@@ -1,2 +1,8 @@
 package org.redhat.gss.dm7_test;
 
+rule "Hello World"
+when
+    
+then 
+    System.out.println("Hello World");
+end
