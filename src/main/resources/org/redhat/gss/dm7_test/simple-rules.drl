@@ -4,5 +4,5 @@ rule "Hello World"
 when
     
 then 
-    System.out.println("Hello World");
+    System.out.println("My Hello World");
 end
