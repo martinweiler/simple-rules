@@ -1,2 +1,7 @@
 package org.redhat.gss.dm7_test;
 
+rule "Additional rule"
+when
+then
+    System.out.println("additional rule fired");
+end
